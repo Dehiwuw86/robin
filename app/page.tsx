@@ -102,7 +102,7 @@ export default function HomePage() {
               variant="outline"
               size="lg"
               className="rounded-full px-8 py-6 text-lg font-semibold"
-              onClick={() => window.open('https://www-tinyurl.com/', '_blank')}
+              onClick={() => window.open('https://lnk.ua/en/', '_blank')}
             >
               <Link2 className="w-5 h-5 ml-2" />
               تقصير رابط صفحتك الشخصية
