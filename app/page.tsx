@@ -98,7 +98,7 @@ export default function HomePage() {
                 bg-secondary border border-border hover:bg-muted transition-all text-foreground/80">
               <Upload className="w-4 h-4 text-muted-foreground" />رفع وسائط
             </a>
-            <a href="https://www-tinyurl.com/" target="_blank" rel="noopener noreferrer"
+            <a href="https://is.gd/" target="_blank" rel="noopener noreferrer"
               className="ios-press flex items-center gap-2.5 px-6 py-4 rounded-2xl font-medium text-sm
                 bg-secondary border border-border hover:bg-muted transition-all text-foreground/80">
               <Link2 className="w-4 h-4 text-muted-foreground" />تقصير رابط
