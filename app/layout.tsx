@@ -24,7 +24,6 @@ const dancing = Dancing_Script({ subsets: ["latin"], variable: '--font-dancing' 
 
 export const metadata: Metadata = {
   title: 'أنشئ صفحتك الشخصية',
-  description: 'أنشئ صفحة شخصية أنيقة ومميزة مع روابط التواصل الاجتماعي والموسيقى والمزيد',
   generator: 'v0.app',
   icons: {
     icon: [
